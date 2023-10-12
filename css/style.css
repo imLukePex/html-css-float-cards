@@ -1,0 +1,31 @@
+/* stili generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: 'Fredoka', sans-serif;
+  font-size: 14px;
+}
+
+.main-container {
+  width: 80%;
+  margin: 40px auto;
+  /* background-color: rgb(183, 168, 168); */
+}
+
+/* stili dell'header */
+header h1 {
+  color: rgb(216, 35, 35);
+  text-align: center;
+  font-size: 40px;
+}
+
+header p {
+  font-size: 18px;
+  text-align: center;
+  margin: 50px 0;
+  color: rgba(0, 0, 0, 0.683);
+}
