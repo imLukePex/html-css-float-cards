@@ -67,6 +67,7 @@ header p {
 
 .text-container {
   float: left;
+  padding: 25px 15px;
 }
 
 .name-tag {
@@ -75,11 +76,13 @@ header p {
   font-weight: bold;
 }
 
-.email {
-  color: rgb(26, 156, 238);
-}
-
 .name-tag, .occupation {
   color: white;
   margin-bottom: 5px;
 }
+
+a {
+  color: rgb(26, 156, 238);
+  text-decoration: none;
+}
+
