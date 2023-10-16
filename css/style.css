@@ -48,11 +48,6 @@ header p {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5)
 }
 
-.cards .img-container {
-  height: 120px;
-  float: left;
-}
-
 .profile-pic {
   height: 120px;
   object-fit: cover;
